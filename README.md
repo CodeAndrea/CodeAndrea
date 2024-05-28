@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hola 👋, soy Andrea
+#### También me podéis llamar Andy
+![También me podéis llamar Andy](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**CodeAndrea/CodeAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy terminando el CFGS de DAM, así que estoy dando mis primeros pasos en el mundo de la programación. 
 
-Here are some ideas to get you started:
+He creado proyectos sencillos, como calculadoras, dados, generadores de contraseñas, ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+El lenguaje principal que he usado es Java, aunque también conozco un poco de Python, C#, VB, C. Aparte, sé manejar bases de datos SQL. También conozco HTML y CSS.
+
+Habilidades: JAVA / SQL / HTML 
+
+- 🔭 Estoy trabajando en esta página para mejorarla 
+- 🌱 Estoy aprendiendo Python 
+- 📫 Cómo contactarme: andreact.dev@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/CodeAndrea)  
+
