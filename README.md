@@ -1,6 +1,6 @@
 ### Hola 👋, soy Andrea
 #### También me podéis llamar Andy
-![También me podéis llamar Andy](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![También me podéis llamar Andy]
 
 Estoy terminando el CFGS de DAM, así que estoy dando mis primeros pasos en el mundo de la programación. 
 
